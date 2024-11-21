@@ -1,0 +1,13 @@
+{
+  "coating_multiplier": 1.0,
+  "particleTypes": "LODESTONE",
+  "ticks": 2,
+  "parry_healing": 4,
+  "gauntletKBType": "DIRECTIONAL",
+  "gauntlet_offhand": false,
+  "lunge_cover": 1,
+  "lunge_cooldown": 40,
+  "lunge_distance": 25,
+  "overcharge_cover": 1,
+  "comboBarLocation": "CROSSHAIR"
+}
