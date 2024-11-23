@@ -1,2041 +1,2036 @@
 [
     {
-        "path": "modsaccurate-block-placement-1.2.1",
+        "path": "mods/accurate-block-placement-1.2.1",
         "name": "accurate-block-placement-1.2.1.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/accurate-block-placement-1.2.1.jar"
     },
     {
-        "path": "modsalternate-current-mc1.19-1.7.0",
+        "path": "mods/alternate-current-mc1.19-1.7.0",
         "name": "alternate-current-mc1.19-1.7.0.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/alternate-current-mc1.19-1.7.0.jar"
     },
     {
-        "path": "modsamarite-1.7.0+1.19.2",
+        "path": "mods/amarite-1.7.0+1.19.2",
         "name": "amarite-1.7.0+1.19.2.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/amarite-1.7.0+1.19.2.jar"
     },
     {
-        "path": "modsAmplified_Nether_1.19.3_v1.2.1",
+        "path": "mods/Amplified_Nether_1.19.3_v1.2.1",
         "name": "Amplified_Nether_1.19.3_v1.2.1.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/Amplified_Nether_1.19.3_v1.2.1.jar"
     },
     {
-        "path": "modsangling-1.0.1",
+        "path": "mods/angling-1.0.1",
         "name": "angling-1.0.1.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/angling-1.0.1.jar"
     },
     {
-        "path": "modsappleskin-fabric-mc1.19-2.4.1",
+        "path": "mods/appleskin-fabric-mc1.19-2.4.1",
         "name": "appleskin-fabric-mc1.19-2.4.1.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/appleskin-fabric-mc1.19-2.4.1.jar"
     },
     {
-        "path": "modsarchipelago-1.0.6",
+        "path": "mods/archipelago-1.0.6",
         "name": "archipelago-1.0.6.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/archipelago-1.0.6.jar"
     },
     {
-        "path": "modsarchitectury-6.6.92-fabric",
+        "path": "mods/architectury-6.6.92-fabric",
         "name": "architectury-6.6.92-fabric.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/architectury-6.6.92-fabric.jar"
     },
     {
-        "path": "modsarsenal-1.5",
+        "path": "mods/arsenal-1.5",
         "name": "arsenal-1.5.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/arsenal-1.5.jar"
     },
     {
-        "path": "modsass-1.0.0 (1)",
+        "path": "mods/ass-1.0.0 (1)",
         "name": "ass-1.0.0 (1).jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/ass-1.0.0 (1).jar"
     },
     {
-        "path": "modsbclib-2.1.8",
+        "path": "mods/bclib-2.1.8",
         "name": "bclib-2.1.8.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/bclib-2.1.8.jar"
     },
     {
-        "path": "modsbefoul-1.1.3",
+        "path": "mods/befoul-1.1.3",
         "name": "befoul-1.1.3.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/befoul-1.1.3.jar"
     },
     {
-        "path": "modsBetterF3-4.0.1-Fabric-1.19.2",
+        "path": "mods/BetterF3-4.0.1-Fabric-1.19.2",
         "name": "BetterF3-4.0.1-Fabric-1.19.2.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/BetterF3-4.0.1-Fabric-1.19.2.jar"
     },
     {
-        "path": "modsblast-1.14",
+        "path": "mods/blast-1.14",
         "name": "blast-1.14.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/blast-1.14.jar"
     },
     {
-        "path": "modsbobby-4.0.1",
+        "path": "mods/bobby-4.0.1",
         "name": "bobby-4.0.1.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/bobby-4.0.1.jar"
     },
     {
-        "path": "modsBookshelf-Fabric-1.19.2-16.3.20",
+        "path": "mods/Bookshelf-Fabric-1.19.2-16.3.20",
         "name": "Bookshelf-Fabric-1.19.2-16.3.20.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/Bookshelf-Fabric-1.19.2-16.3.20.jar"
     },
     {
-        "path": "modscalcmod-1.19.2-1.2.0",
+        "path": "mods/calcmod-1.19.2-1.2.0",
         "name": "calcmod-1.19.2-1.2.0.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/calcmod-1.19.2-1.2.0.jar"
     },
     {
-        "path": "modscamerautils-fabric-1.19.2-1.0.14",
+        "path": "mods/camerautils-fabric-1.19.2-1.0.14",
         "name": "camerautils-fabric-1.19.2-1.0.14.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/camerautils-fabric-1.19.2-1.0.14.jar"
     },
     {
-        "path": "modscammies-minecart-tweaks-1.7",
+        "path": "mods/cammies-minecart-tweaks-1.7",
         "name": "cammies-minecart-tweaks-1.7.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/cammies-minecart-tweaks-1.7.jar"
     },
     {
-        "path": "modscarved-3.0.0",
+        "path": "mods/carved-3.0.0",
         "name": "carved-3.0.0.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/carved-3.0.0.jar"
     },
     {
-        "path": "modschat_heads-0.12.10-fabric-1.19.2",
+        "path": "mods/chat_heads-0.12.10-fabric-1.19.2",
         "name": "chat_heads-0.12.10-fabric-1.19.2.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/chat_heads-0.12.10-fabric-1.19.2.jar"
     },
     {
-        "path": "modschime-1.3.0",
+        "path": "mods/chime-1.3.0",
         "name": "chime-1.3.0.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/chime-1.3.0.jar"
     },
     {
-        "path": "modsCITResewn-1.1.2+1.19.2",
+        "path": "mods/CITResewn-1.1.2+1.19.2",
         "name": "CITResewn-1.1.2+1.19.2.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/CITResewn-1.1.2+1.19.2.jar"
     },
     {
-        "path": "modscloth-config-8.3.115-fabric",
+        "path": "mods/cloth-config-8.3.115-fabric",
         "name": "cloth-config-8.3.115-fabric.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/cloth-config-8.3.115-fabric.jar"
     },
     {
-        "path": "modsClumps-fabric-1.19.2-9.0.0+14",
+        "path": "mods/Clumps-fabric-1.19.2-9.0.0+14",
         "name": "Clumps-fabric-1.19.2-9.0.0+14.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/Clumps-fabric-1.19.2-9.0.0+14.jar"
     },
     {
-        "path": "modscomforts-fabric-6.0.7+1.19.2",
+        "path": "mods/comforts-fabric-6.0.7+1.19.2",
         "name": "comforts-fabric-6.0.7+1.19.2.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/comforts-fabric-6.0.7+1.19.2.jar"
     },
     {
-        "path": "modsconnectiblechains-2.1.4+1.19.2",
+        "path": "mods/connectiblechains-2.1.4+1.19.2",
         "name": "connectiblechains-2.1.4+1.19.2.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/connectiblechains-2.1.4+1.19.2.jar"
     },
     {
-        "path": "modscontent-tweaks-1.1.15",
+        "path": "mods/content-tweaks-1.1.15",
         "name": "content-tweaks-1.1.15.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/content-tweaks-1.1.15.jar"
     },
     {
-        "path": "modscontinuity-2.0.2+1.19",
+        "path": "mods/continuity-2.0.2+1.19",
         "name": "continuity-2.0.2+1.19.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/continuity-2.0.2+1.19.jar"
     },
     {
-        "path": "modscopperhopper-0.0.12+1.19.2",
+        "path": "mods/copperhopper-0.0.12+1.19.2",
         "name": "copperhopper-0.0.12+1.19.2.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/copperhopper-0.0.12+1.19.2.jar"
     },
     {
-        "path": "modsCouplings-1.9.1+1.19",
+        "path": "mods/Couplings-1.9.1+1.19",
         "name": "Couplings-1.9.1+1.19.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/Couplings-1.9.1+1.19.jar"
     },
     {
-        "path": "modscoyotebites-1.0.1",
+        "path": "mods/coyotebites-1.0.1",
         "name": "coyotebites-1.0.1.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/coyotebites-1.0.1.jar"
     },
     {
-        "path": "modscreeper-spores-1.9.1",
+        "path": "mods/creeper-spores-1.9.1",
         "name": "creeper-spores-1.9.1.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/creeper-spores-1.9.1.jar"
     },
     {
-        "path": "modscrossbow_brimstone_5",
+        "path": "mods/crossbow_brimstone_5",
         "name": "crossbow_brimstone_5.png",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/crossbow_brimstone_5.png"
     },
     {
-        "path": "modsdark-loading-screen-1.6.12",
+        "path": "mods/dark-loading-screen-1.6.12",
         "name": "dark-loading-screen-1.6.12.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/dark-loading-screen-1.6.12.jar"
     },
     {
-        "path": "modsdeathlog-0.2.11+1.19",
+        "path": "mods/deathlog-0.2.11+1.19",
         "name": "deathlog-0.2.11+1.19.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/deathlog-0.2.11+1.19.jar"
     },
     {
-        "path": "modsdefile-1.0.0.jar",
+        "path": "mods/defile-1.0.0.jar",
         "name": "defile-1.0.0.jar.disabled",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/defile-1.0.0.jar.disabled"
     },
     {
-        "path": "modseffective-2.1.1+1.19.2",
+        "path": "mods/effective-2.1.1+1.19.2",
         "name": "effective-2.1.1+1.19.2.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/effective-2.1.1+1.19.2.jar"
     },
     {
-        "path": "modsemi-1.1.2+1.19.2+fabric",
+        "path": "mods/emi-1.1.2+1.19.2+fabric",
         "name": "emi-1.1.2+1.19.2+fabric.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/emi-1.1.2+1.19.2+fabric.jar"
     },
     {
-        "path": "modsemiffect-0.1.5+mc1.19.2",
+        "path": "mods/emiffect-0.1.5+mc1.19.2",
         "name": "emiffect-0.1.5+mc1.19.2.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/emiffect-0.1.5+mc1.19.2.jar"
     },
     {
-        "path": "modsEMITrades-fabric-1.0.2+mc1.19.2",
+        "path": "mods/EMITrades-fabric-1.0.2+mc1.19.2",
         "name": "EMITrades-fabric-1.0.2+mc1.19.2.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/EMITrades-fabric-1.0.2+mc1.19.2.jar"
     },
     {
-        "path": "modsemi_farmersdelight-1.0.1",
+        "path": "mods/emi_farmersdelight-1.0.1",
         "name": "emi_farmersdelight-1.0.1.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/emi_farmersdelight-1.0.1.jar"
     },
     {
-        "path": "modsemi_loot-0.6.5+1.19",
+        "path": "mods/emi_loot-0.6.5+1.19",
         "name": "emi_loot-0.6.5+1.19.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/emi_loot-0.6.5+1.19.jar"
     },
     {
-        "path": "modsenchancement-1.19-14",
+        "path": "mods/enchancement-1.19-14",
         "name": "enchancement-1.19-14.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/enchancement-1.19-14.jar"
     },
     {
-        "path": "modsEnchantmentDescriptions-Fabric-1.19.2-13.0.14",
+        "path": "mods/EnchantmentDescriptions-Fabric-1.19.2-13.0.14",
         "name": "EnchantmentDescriptions-Fabric-1.19.2-13.0.14.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/EnchantmentDescriptions-Fabric-1.19.2-13.0.14.jar"
     },
     {
-        "path": "modsentityculling-fabric-1.6.1-mc1.19.2",
+        "path": "mods/entityculling-fabric-1.6.1-mc1.19.2",
         "name": "entityculling-fabric-1.6.1-mc1.19.2.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/entityculling-fabric-1.6.1-mc1.19.2.jar"
     },
     {
-        "path": "modsetched-fabric-2.3.2",
+        "path": "mods/etched-fabric-2.3.2",
         "name": "etched-fabric-2.3.2.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/etched-fabric-2.3.2.jar"
     },
     {
-        "path": "modsexpedition-1.01.19.2-winter_arne",
+        "path": "mods/expedition-1.01.19.2-winter_arne",
         "name": "expedition-1.01.19.2-winter_arne.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/expedition-1.01.19.2-winter_arne.jar"
     },
     {
-        "path": "modsexposure-1.19.2-1.6.0-fabric",
+        "path": "mods/exposure-1.19.2-1.6.0-fabric",
         "name": "exposure-1.19.2-1.6.0-fabric.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/exposure-1.19.2-1.6.0-fabric.jar"
     },
     {
-        "path": "modsextra-mod-integrations-0.1.2+1.19.2",
+        "path": "mods/extra-mod-integrations-0.1.2+1.19.2",
         "name": "extra-mod-integrations-0.1.2+1.19.2.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/extra-mod-integrations-0.1.2+1.19.2.jar"
     },
     {
-        "path": "modsfabric-carpet-1.19.2-1.4.84+v221018",
+        "path": "mods/fabric-carpet-1.19.2-1.4.84+v221018",
         "name": "fabric-carpet-1.19.2-1.4.84+v221018.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/fabric-carpet-1.19.2-1.4.84+v221018.jar"
     },
     {
-        "path": "modsfabrication-3.4.19+1.19",
+        "path": "mods/fabrication-3.4.19+1.19",
         "name": "fabrication-3.4.19+1.19.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/fabrication-3.4.19+1.19.jar"
     },
     {
-        "path": "modsfabrictailor-2.0.1",
+        "path": "mods/fabrictailor-2.0.1",
         "name": "fabrictailor-2.0.1.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/fabrictailor-2.0.1.jar"
     },
     {
-        "path": "modsfallingleaves-1.13.0+1.19.2",
+        "path": "mods/fallingleaves-1.13.0+1.19.2",
         "name": "fallingleaves-1.13.0+1.19.2.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/fallingleaves-1.13.0+1.19.2.jar"
     },
     {
-        "path": "modsfarmers-delight-fabric-1.19.2-1.3.10",
+        "path": "mods/farmers-delight-fabric-1.19.2-1.3.10",
         "name": "farmers-delight-fabric-1.19.2-1.3.10.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/farmers-delight-fabric-1.19.2-1.3.10.jar"
     },
     {
-        "path": "modsfastquit-2.1.0+1.19-1.19.2",
+        "path": "mods/fastquit-2.1.0+1.19-1.19.2",
         "name": "fastquit-2.1.0+1.19-1.19.2.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/fastquit-2.1.0+1.19-1.19.2.jar"
     },
     {
-        "path": "modsfireworkfrenzy-1.10",
+        "path": "mods/fireworkfrenzy-1.10",
         "name": "fireworkfrenzy-1.10.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/fireworkfrenzy-1.10.jar"
     },
     {
-        "path": "modsfoodeffecttooltips-1.1.2",
+        "path": "mods/foodeffecttooltips-1.1.2",
         "name": "foodeffecttooltips-1.1.2.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/foodeffecttooltips-1.1.2.jar"
     },
     {
-        "path": "modsForgeConfigAPIPort-v4.2.11-1.19.2-Fabric",
+        "path": "mods/ForgeConfigAPIPort-v4.2.11-1.19.2-Fabric",
         "name": "ForgeConfigAPIPort-v4.2.11-1.19.2-Fabric.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/ForgeConfigAPIPort-v4.2.11-1.19.2-Fabric.jar"
     },
     {
-        "path": "modsfreecam-fabric-modrinth-1.2.3+1.19.2",
+        "path": "mods/freecam-fabric-modrinth-1.2.3+1.19.2",
         "name": "freecam-fabric-modrinth-1.2.3+1.19.2.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/freecam-fabric-modrinth-1.2.3+1.19.2.jar"
     },
     {
-        "path": "modsgeckolib-quilt-1.19-3.1.41",
+        "path": "mods/geckolib-quilt-1.19-3.1.41",
         "name": "geckolib-quilt-1.19-3.1.41.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/geckolib-quilt-1.19-3.1.41.jar"
     },
     {
-        "path": "modsheld-item-info-1.4.0",
+        "path": "mods/held-item-info-1.4.0",
         "name": "held-item-info-1.4.0.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/held-item-info-1.4.0.jar"
     },
     {
-        "path": "modsimpaled-1.1.5",
+        "path": "mods/impaled-1.1.5",
         "name": "impaled-1.1.5.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/impaled-1.1.5.jar"
     },
     {
-        "path": "modsindium-1.0.9+mc1.19.2",
+        "path": "mods/indium-1.0.9+mc1.19.2",
         "name": "indium-1.0.9+mc1.19.2.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/indium-1.0.9+mc1.19.2.jar"
     },
     {
-        "path": "modsInvMove-1.19-0.8.4-Quilt",
+        "path": "mods/InvMove-1.19-0.8.4-Quilt",
         "name": "InvMove-1.19-0.8.4-Quilt.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/InvMove-1.19-0.8.4-Quilt.jar"
     },
     {
-        "path": "modsiris-mc1.19.2-1.6.11",
+        "path": "mods/iris-mc1.19.2-1.6.11",
         "name": "iris-mc1.19.2-1.6.11.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/iris-mc1.19.2-1.6.11.jar"
     },
     {
-        "path": "modsitem-model-fix-1.0.3+1.19",
+        "path": "mods/item-model-fix-1.0.3+1.19",
         "name": "item-model-fix-1.0.3+1.19.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/item-model-fix-1.0.3+1.19.jar"
     },
     {
-        "path": "modsitemflexer_1.19-1.3.0",
+        "path": "mods/itemflexer_1.19-1.3.0",
         "name": "itemflexer_1.19-1.3.0.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/itemflexer_1.19-1.3.0.jar"
     },
     {
-        "path": "modsjamlib-0.6.1+1.19-1.19.2",
+        "path": "mods/jamlib-0.6.1+1.19-1.19.2",
         "name": "jamlib-0.6.1+1.19-1.19.2.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/jamlib-0.6.1+1.19-1.19.2.jar"
     },
     {
-        "path": "modskonkrete_fabric_1.6.0_MC_1.19.1-1.19.2",
+        "path": "mods/konkrete_fabric_1.6.0_MC_1.19.1-1.19.2",
         "name": "konkrete_fabric_1.6.0_MC_1.19.1-1.19.2.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/konkrete_fabric_1.6.0_MC_1.19.1-1.19.2.jar"
     },
     {
-        "path": "modslambdabettergrass-1.3.0+1.19",
+        "path": "mods/lambdabettergrass-1.3.0+1.19",
         "name": "lambdabettergrass-1.3.0+1.19.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/lambdabettergrass-1.3.0+1.19.jar"
     },
     {
-        "path": "modslambdynamiclights-2.2.0+1.19.2",
+        "path": "mods/lambdynamiclights-2.2.0+1.19.2",
         "name": "lambdynamiclights-2.2.0+1.19.2.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/lambdynamiclights-2.2.0+1.19.2.jar"
     },
     {
-        "path": "modslengthyladders-1.0.5",
+        "path": "mods/lengthyladders-1.0.5",
         "name": "lengthyladders-1.0.5.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/lengthyladders-1.0.5.jar"
     },
     {
-        "path": "modslitematica-fabric-1.19.2-0.12.7",
+        "path": "mods/litematica-fabric-1.19.2-0.12.7",
         "name": "litematica-fabric-1.19.2-0.12.7.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/litematica-fabric-1.19.2-0.12.7.jar"
     },
     {
-        "path": "modslithium-fabric-mc1.19.2-0.11.1",
+        "path": "mods/lithium-fabric-mc1.19.2-0.11.1",
         "name": "lithium-fabric-mc1.19.2-0.11.1.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/lithium-fabric-mc1.19.2-0.11.1.jar"
     },
     {
-        "path": "modslore-1.0.1",
+        "path": "mods/lore-1.0.1",
         "name": "lore-1.0.1.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/lore-1.0.1.jar"
     },
     {
-        "path": "modsmalilib-fabric-1.19.2-0.13.0",
+        "path": "mods/malilib-fabric-1.19.2-0.13.0",
         "name": "malilib-fabric-1.19.2-0.13.0.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/malilib-fabric-1.19.2-0.13.0.jar"
     },
     {
-        "path": "modsmannequins-fabric-2.2.1",
+        "path": "mods/mannequins-fabric-2.2.1",
         "name": "mannequins-fabric-2.2.1.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/mannequins-fabric-2.2.1.jar"
     },
     {
-        "path": "modsmason-decor-1.1.3",
+        "path": "mods/mason-decor-1.1.3",
         "name": "mason-decor-1.1.3.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/mason-decor-1.1.3.jar"
     },
     {
-        "path": "modsmasquerade-1.0.0",
+        "path": "mods/masquerade-1.0.0",
         "name": "masquerade-1.0.0.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/masquerade-1.0.0.jar"
     },
     {
-        "path": "modsmemoryleakfix-fabric-1.17+-1.1.5",
+        "path": "mods/memoryleakfix-fabric-1.17+-1.1.5",
         "name": "memoryleakfix-fabric-1.17+-1.1.5.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/memoryleakfix-fabric-1.17+-1.1.5.jar"
     },
     {
-        "path": "modsmialeemisc-1.0.39 (1)",
+        "path": "mods/mialeemisc-1.0.39 (1)",
         "name": "mialeemisc-1.0.39 (1).jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/mialeemisc-1.0.39 (1).jar"
     },
     {
-        "path": "modsMissingWilds-quilt-1.19.2-1.2.0-beta.2",
+        "path": "mods/MissingWilds-quilt-1.19.2-1.2.0-beta.2",
         "name": "MissingWilds-quilt-1.19.2-1.2.0-beta.2.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/MissingWilds-quilt-1.19.2-1.2.0-beta.2.jar"
     },
     {
-        "path": "modsmodmenu-4.2.0-beta.2",
+        "path": "mods/modmenu-4.2.0-beta.2",
         "name": "modmenu-4.2.0-beta.2.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/modmenu-4.2.0-beta.2.jar"
     },
     {
-        "path": "modsmorechathistory-1.3.0",
+        "path": "mods/morechathistory-1.3.0",
         "name": "morechathistory-1.3.0.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/morechathistory-1.3.0.jar"
     },
     {
-        "path": "modsMouseTweaks-fabric-mc1.19-2.22",
+        "path": "mods/MouseTweaks-fabric-mc1.19-2.22",
         "name": "MouseTweaks-fabric-mc1.19-2.22.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/MouseTweaks-fabric-mc1.19-2.22.jar"
     },
     {
-        "path": "modsnamepain-1.5.2 fabric-1.19.x",
+        "path": "mods/namepain-1.5.2 fabric-1.19.x",
         "name": "namepain-1.5.2 fabric-1.19.x.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/namepain-1.5.2 fabric-1.19.x.jar"
     },
     {
-        "path": "modsnotenoughanimations-fabric-1.6.2-mc1.19.2",
+        "path": "mods/notenoughanimations-fabric-1.6.2-mc1.19.2",
         "name": "notenoughanimations-fabric-1.6.2-mc1.19.2.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/notenoughanimations-fabric-1.6.2-mc1.19.2.jar"
     },
     {
-        "path": "modsowo-lib-0.9.3+1.19",
+        "path": "mods/owo-lib-0.9.3+1.19",
         "name": "owo-lib-0.9.3+1.19.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/owo-lib-0.9.3+1.19.jar"
     },
     {
-        "path": "modspandemonium-1.0.0",
-        "name": "pandemonium-1.0.0.jar",
-        "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/pandemonium-1.0.0.jar"
-    },
-    {
-        "path": "modsparoxysm-1.0.0",
+        "path": "mods/paroxysm-1.0.0",
         "name": "paroxysm-1.0.0.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/paroxysm-1.0.0.jar"
     },
     {
-        "path": "modsPehkui-3.7.12+1.14.4-1.20.4",
+        "path": "mods/Pehkui-3.7.12+1.14.4-1.20.4",
         "name": "Pehkui-3.7.12+1.14.4-1.20.4.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/Pehkui-3.7.12+1.14.4-1.20.4.jar"
     },
     {
-        "path": "modspickyourpoison-1.0.11",
+        "path": "mods/pickyourpoison-1.0.11",
         "name": "pickyourpoison-1.0.11.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/pickyourpoison-1.0.11.jar"
     },
     {
-        "path": "modsPing-Wheel-1.9.1-fabric-1.19.2",
+        "path": "mods/Ping-Wheel-1.9.1-fabric-1.19.2",
         "name": "Ping-Wheel-1.9.1-fabric-1.19.2.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/Ping-Wheel-1.9.1-fabric-1.19.2.jar"
     },
     {
-        "path": "modsplayer-animation-lib-fabric-1.0.2",
+        "path": "mods/player-animation-lib-fabric-1.0.2",
         "name": "player-animation-lib-fabric-1.0.2.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/player-animation-lib-fabric-1.0.2.jar"
     },
     {
-        "path": "modspollen-fabric-2.1.0",
+        "path": "mods/pollen-fabric-2.1.0",
         "name": "pollen-fabric-2.1.0.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/pollen-fabric-2.1.0.jar"
     },
     {
-        "path": "modsqfapi-4.0.0-beta.30_qsl-3.0.0-beta.29_fapi-0.76.0_mc-1.19.2",
+        "path": "mods/qfapi-4.0.0-beta.30_qsl-3.0.0-beta.29_fapi-0.76.0_mc-1.19.2",
         "name": "qfapi-4.0.0-beta.30_qsl-3.0.0-beta.29_fapi-0.76.0_mc-1.19.2.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/qfapi-4.0.0-beta.30_qsl-3.0.0-beta.29_fapi-0.76.0_mc-1.19.2.jar"
     },
     {
-        "path": "modsratsmischief-2.0.1",
+        "path": "mods/ratsmischief-2.0.1",
         "name": "ratsmischief-2.0.1.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/ratsmischief-2.0.1.jar"
     },
     {
-        "path": "modsreplaymod-1.19.2-2.6.19",
+        "path": "mods/replaymod-1.19.2-2.6.19",
         "name": "replaymod-1.19.2-2.6.19.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/replaymod-1.19.2-2.6.19.jar"
     },
     {
-        "path": "modsrespawnablepets-1.19-2",
+        "path": "mods/respawnablepets-1.19-2",
         "name": "respawnablepets-1.19-2.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/respawnablepets-1.19-2.jar"
     },
     {
-        "path": "modsright-click-harvest-3.2.3+1.19.x-1.20.1-fabric",
+        "path": "mods/right-click-harvest-3.2.3+1.19.x-1.20.1-fabric",
         "name": "right-click-harvest-3.2.3+1.19.x-1.20.1-fabric.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/right-click-harvest-3.2.3+1.19.x-1.20.1-fabric.jar"
     },
     {
-        "path": "modsrosel-1.3.2+1.19.2",
+        "path": "mods/rosel-1.3.2+1.19.2",
         "name": "rosel-1.3.2+1.19.2.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/rosel-1.3.2+1.19.2.jar"
     },
     {
-        "path": "modsshitsandgigs-3.3.0",
+        "path": "mods/shitsandgigs-3.3.0",
         "name": "shitsandgigs-3.3.0.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/shitsandgigs-3.3.0.jar"
     },
     {
-        "path": "modsshuffle-5.0.1+1.19-fabric",
+        "path": "mods/shuffle-5.0.1+1.19-fabric",
         "name": "shuffle-5.0.1+1.19-fabric.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/shuffle-5.0.1+1.19-fabric.jar"
     },
     {
-        "path": "modsSimpleCopperPipes-1.13.3-1.19",
+        "path": "mods/SimpleCopperPipes-1.13.3-1.19",
         "name": "SimpleCopperPipes-1.13.3-1.19.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/SimpleCopperPipes-1.13.3-1.19.jar"
     },
     {
-        "path": "modssit-1.19.2-20",
+        "path": "mods/sit-1.19.2-20",
         "name": "sit-1.19.2-20.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/sit-1.19.2-20.jar"
     },
     {
-        "path": "modssmoothswapping-0.9.2-1.19.2-fabric",
+        "path": "mods/smoothswapping-0.9.2-1.19.2-fabric",
         "name": "smoothswapping-0.9.2-1.19.2-fabric.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/smoothswapping-0.9.2-1.19.2-fabric.jar"
     },
     {
-        "path": "modssodium-fabric-mc1.19.2-0.4.4+build.18",
+        "path": "mods/sodium-fabric-mc1.19.2-0.4.4+build.18",
         "name": "sodium-fabric-mc1.19.2-0.4.4+build.18.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/sodium-fabric-mc1.19.2-0.4.4+build.18.jar"
     },
     {
-        "path": "modssound-physics-remastered-fabric-1.19.2-1.3.1",
+        "path": "mods/sound-physics-remastered-fabric-1.19.2-1.3.1",
         "name": "sound-physics-remastered-fabric-1.19.2-1.3.1.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/sound-physics-remastered-fabric-1.19.2-1.3.1.jar"
     },
     {
-        "path": "modsstarlight-1.1.1+fabric.ae22326",
+        "path": "mods/starlight-1.1.1+fabric.ae22326",
         "name": "starlight-1.1.1+fabric.ae22326.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/starlight-1.1.1+fabric.ae22326.jar"
     },
     {
-        "path": "modsstendhal-1.3.5-1.19",
+        "path": "mods/stendhal-1.3.5-1.19",
         "name": "stendhal-1.3.5-1.19.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/stendhal-1.3.5-1.19.jar"
     },
     {
-        "path": "modsstyled-nicknames-1.1.2+1.19",
+        "path": "mods/styled-nicknames-1.1.2+1.19",
         "name": "styled-nicknames-1.1.2+1.19.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/styled-nicknames-1.1.2+1.19.jar"
     },
     {
-        "path": "modsswitchy-2.9.4+1.19",
+        "path": "mods/switchy-2.9.4+1.19",
         "name": "switchy-2.9.4+1.19.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/switchy-2.9.4+1.19.jar"
     },
     {
-        "path": "modsswitchy-inventories-1.8.2+1.19",
+        "path": "mods/switchy-inventories-1.8.2+1.19",
         "name": "switchy-inventories-1.8.2+1.19.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/switchy-inventories-1.8.2+1.19.jar"
     },
     {
-        "path": "modsswitchy-teleport-1.2.5+1.19.2",
+        "path": "mods/switchy-teleport-1.2.5+1.19.2",
         "name": "switchy-teleport-1.2.5+1.19.2.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/switchy-teleport-1.2.5+1.19.2.jar"
     },
     {
-        "path": "modstodolist-0.2",
+        "path": "mods/todolist-0.2",
         "name": "todolist-0.2.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/todolist-0.2.jar"
     },
     {
-        "path": "modstooltipfix-1.1.1-1.19",
+        "path": "mods/tooltipfix-1.1.1-1.19",
         "name": "tooltipfix-1.1.1-1.19.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/tooltipfix-1.1.1-1.19.jar"
     },
     {
-        "path": "modstrinkets-3.4.2",
+        "path": "mods/trinkets-3.4.2",
         "name": "trinkets-3.4.2.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/trinkets-3.4.2.jar"
     },
     {
-        "path": "modstweakeroo-fabric-1.19.2-0.14.3",
+        "path": "mods/tweakeroo-fabric-1.19.2-0.14.3",
         "name": "tweakeroo-fabric-1.19.2-0.14.3.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/tweakeroo-fabric-1.19.2-0.14.3.jar"
     },
     {
-        "path": "modstwigs-3.0.0-fabric-1.19.2",
+        "path": "mods/twigs-3.0.0-fabric-1.19.2",
         "name": "twigs-3.0.0-fabric-1.19.2.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/twigs-3.0.0-fabric-1.19.2.jar"
     },
     {
-        "path": "modstyplosid-1.2.6",
+        "path": "mods/typlosid-1.2.6",
         "name": "typlosid-1.2.6.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/typlosid-1.2.6.jar"
     },
     {
-        "path": "modsvisuality-0.5.6",
+        "path": "mods/visuality-0.5.6",
         "name": "visuality-0.5.6.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/visuality-0.5.6.jar"
     },
     {
-        "path": "modsvoicechat-quilt-1.19.2-2.5.7",
+        "path": "mods/voicechat-quilt-1.19.2-2.5.7",
         "name": "voicechat-quilt-1.19.2-2.5.7.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/voicechat-quilt-1.19.2-2.5.7.jar"
     },
     {
-        "path": "modswatson-fabric-1.14.4+1.19.2.jar",
+        "path": "mods/watson-fabric-1.14.4+1.19.2.jar",
         "name": "watson-fabric-1.14.4+1.19.2.jar.disabled",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/watson-fabric-1.14.4+1.19.2.jar.disabled"
     },
     {
-        "path": "modsworldedit-mod-7.2.12",
+        "path": "mods/worldedit-mod-7.2.12",
         "name": "worldedit-mod-7.2.12.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit-mod-7.2.12.jar"
     },
     {
-        "path": "modsXaerosWorldMap_1.39.0_Fabric_1.19.1",
+        "path": "mods/XaerosWorldMap_1.39.0_Fabric_1.19.1",
         "name": "XaerosWorldMap_1.39.0_Fabric_1.19.1.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/XaerosWorldMap_1.39.0_Fabric_1.19.1.jar"
     },
     {
-        "path": "modsXaeros_Minimap_24.6.1_Fabric_1.19.1",
+        "path": "mods/Xaeros_Minimap_24.6.1_Fabric_1.19.1",
         "name": "Xaeros_Minimap_24.6.1_Fabric_1.19.1.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/Xaeros_Minimap_24.6.1_Fabric_1.19.1.jar"
     },
     {
-        "path": "modsYungsApi-1.19.2-Fabric-3.8.10",
+        "path": "mods/YungsApi-1.19.2-Fabric-3.8.10",
         "name": "YungsApi-1.19.2-Fabric-3.8.10.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/YungsApi-1.19.2-Fabric-3.8.10.jar"
     },
     {
-        "path": "modsYungsBetterDesertTemples-1.19.2-Fabric-2.2.2",
+        "path": "mods/YungsBetterDesertTemples-1.19.2-Fabric-2.2.2",
         "name": "YungsBetterDesertTemples-1.19.2-Fabric-2.2.2.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/YungsBetterDesertTemples-1.19.2-Fabric-2.2.2.jar"
     },
     {
-        "path": "modsYungsBetterJungleTemples-1.19.2-Fabric-1.0.1",
+        "path": "mods/YungsBetterJungleTemples-1.19.2-Fabric-1.0.1",
         "name": "YungsBetterJungleTemples-1.19.2-Fabric-1.0.1.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/YungsBetterJungleTemples-1.19.2-Fabric-1.0.1.jar"
     },
     {
-        "path": "modsYungsBetterMineshafts-1.19.2-Fabric-3.2.0",
+        "path": "mods/YungsBetterMineshafts-1.19.2-Fabric-3.2.0",
         "name": "YungsBetterMineshafts-1.19.2-Fabric-3.2.0.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/YungsBetterMineshafts-1.19.2-Fabric-3.2.0.jar"
     },
     {
-        "path": "modsYungsBetterStrongholds-1.19.2-Fabric-3.2.0",
+        "path": "mods/YungsBetterStrongholds-1.19.2-Fabric-3.2.0",
         "name": "YungsBetterStrongholds-1.19.2-Fabric-3.2.0.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/YungsBetterStrongholds-1.19.2-Fabric-3.2.0.jar"
     },
     {
-        "path": "modsYungsBridges-1.19.2-Fabric-3.1.0",
+        "path": "mods/YungsBridges-1.19.2-Fabric-3.1.0",
         "name": "YungsBridges-1.19.2-Fabric-3.1.0.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/YungsBridges-1.19.2-Fabric-3.1.0.jar"
     },
     {
-        "path": "modsYungsExtras-1.19.2-Fabric-3.1.0",
+        "path": "mods/YungsExtras-1.19.2-Fabric-3.1.0",
         "name": "YungsExtras-1.19.2-Fabric-3.1.0.jar",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/YungsExtras-1.19.2-Fabric-3.1.0.jar"
     },
     {
-        "path": "configappleskin",
+        "path": "config/appleskin",
         "name": "appleskin.json5",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/appleskin.json5"
     },
     {
-        "path": "configass",
+        "path": "config/ass",
         "name": "ass.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/ass.json"
     },
     {
-        "path": "configbetterdeserttemples-fabric-1_19",
+        "path": "config/betterdeserttemples-fabric-1_19",
         "name": "betterdeserttemples-fabric-1_19.toml",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/betterdeserttemples-fabric-1_19.toml"
     },
     {
-        "path": "configbetterdungeons-fabric-1_19",
+        "path": "config/betterdungeons-fabric-1_19",
         "name": "betterdungeons-fabric-1_19.toml",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/betterdungeons-fabric-1_19.toml"
     },
     {
-        "path": "configbetterf3",
+        "path": "config/betterf3",
         "name": "betterf3.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/betterf3.json"
     },
     {
-        "path": "configbetterjungletemples-fabric-1_19_2",
+        "path": "config/betterjungletemples-fabric-1_19_2",
         "name": "betterjungletemples-fabric-1_19_2.toml",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/betterjungletemples-fabric-1_19_2.toml"
     },
     {
-        "path": "configbettermineshafts-fabric-1_19",
+        "path": "config/bettermineshafts-fabric-1_19",
         "name": "bettermineshafts-fabric-1_19.toml",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/bettermineshafts-fabric-1_19.toml"
     },
     {
-        "path": "configbetterstrongholds-fabric-1_19",
+        "path": "config/betterstrongholds-fabric-1_19",
         "name": "betterstrongholds-fabric-1_19.toml",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/betterstrongholds-fabric-1_19.toml"
     },
     {
-        "path": "configbobby",
+        "path": "config/bobby",
         "name": "bobby.conf",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/bobby.conf"
     },
     {
-        "path": "configcardinal-components-api",
+        "path": "config/cardinal-components-api",
         "name": "cardinal-components-api.properties",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/cardinal-components-api.properties"
     },
     {
-        "path": "configchat_heads",
+        "path": "config/chat_heads",
         "name": "chat_heads.json5",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/chat_heads.json5"
     },
     {
-        "path": "configcitresewn-defaults",
+        "path": "config/citresewn-defaults",
         "name": "citresewn-defaults.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/citresewn-defaults.json"
     },
     {
-        "path": "configcitresewn",
+        "path": "config/citresewn",
         "name": "citresewn.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/citresewn.json"
     },
     {
-        "path": "configcomforts-server",
+        "path": "config/comforts-server",
         "name": "comforts-server.toml",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/comforts-server.toml"
     },
     {
-        "path": "configconnectiblechains",
+        "path": "config/connectiblechains",
         "name": "connectiblechains.toml",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/connectiblechains.toml"
     },
     {
-        "path": "configcontinuity",
+        "path": "config/continuity",
         "name": "continuity.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/continuity.json"
     },
     {
-        "path": "configcopperhopper",
+        "path": "config/copperhopper",
         "name": "copperhopper.properties",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/copperhopper.properties"
     },
     {
-        "path": "configcouplings",
+        "path": "config/couplings",
         "name": "couplings.toml",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/couplings.toml"
     },
     {
-        "path": "configdashloader",
+        "path": "config/dashloader",
         "name": "dashloader.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/dashloader.json"
     },
     {
-        "path": "configdeathlog",
+        "path": "config/deathlog",
         "name": "deathlog.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/deathlog.json"
     },
     {
-        "path": "configdefaultresources",
+        "path": "config/defaultresources",
         "name": "defaultresources.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/defaultresources.json"
     },
     {
-        "path": "configeffective",
+        "path": "config/effective",
         "name": "effective.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/effective.json"
     },
     {
-        "path": "configemi",
+        "path": "config/emi",
         "name": "emi.css",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/emi.css"
     },
     {
-        "path": "configEmiLootConfig_v1",
+        "path": "config/EmiLootConfig_v1",
         "name": "EmiLootConfig_v1.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/EmiLootConfig_v1.json"
     },
     {
-        "path": "configemitrades",
+        "path": "config/emitrades",
         "name": "emitrades.toml",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/emitrades.toml"
     },
     {
-        "path": "configenchancement",
+        "path": "config/enchancement",
         "name": "enchancement.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/enchancement.json"
     },
     {
-        "path": "configenchdesc",
+        "path": "config/enchdesc",
         "name": "enchdesc.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/enchdesc.json"
     },
     {
-        "path": "configentityculling",
+        "path": "config/entityculling",
         "name": "entityculling.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/entityculling.json"
     },
     {
-        "path": "configetched-client",
+        "path": "config/etched-client",
         "name": "etched-client.toml",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/etched-client.toml"
     },
     {
-        "path": "configexposure-client",
+        "path": "config/exposure-client",
         "name": "exposure-client.toml",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/exposure-client.toml"
     },
     {
-        "path": "configexposure-common",
+        "path": "config/exposure-common",
         "name": "exposure-common.toml",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/exposure-common.toml"
     },
     {
-        "path": "configfabrictailor",
+        "path": "config/fabrictailor",
         "name": "fabrictailor.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/fabrictailor.json"
     },
     {
-        "path": "configfallingleaves",
+        "path": "config/fallingleaves",
         "name": "fallingleaves.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/fallingleaves.json"
     },
     {
-        "path": "configfarmersdelight",
+        "path": "config/farmersdelight",
         "name": "farmersdelight.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/farmersdelight.json"
     },
     {
-        "path": "configfastquit-config",
+        "path": "config/fastquit-config",
         "name": "fastquit-config.txt",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/fastquit-config.txt"
     },
     {
-        "path": "configfireworkfrenzy",
+        "path": "config/fireworkfrenzy",
         "name": "fireworkfrenzy.json5",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/fireworkfrenzy.json5"
     },
     {
-        "path": "configFoodEffectTooltips",
+        "path": "config/FoodEffectTooltips",
         "name": "FoodEffectTooltips.json5",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/FoodEffectTooltips.json5"
     },
     {
-        "path": "configfreecam",
+        "path": "config/freecam",
         "name": "freecam.json5",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/freecam.json5"
     },
     {
-        "path": "configheld-item-info",
+        "path": "config/held-item-info",
         "name": "held-item-info.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/held-item-info.json"
     },
     {
-        "path": "configindium-renderer",
+        "path": "config/indium-renderer",
         "name": "indium-renderer.properties",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/indium-renderer.properties"
     },
     {
-        "path": "configinvmove",
+        "path": "config/invmove",
         "name": "invmove.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/invmove.json"
     },
     {
-        "path": "configiris",
+        "path": "config/iris",
         "name": "iris.properties",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/iris.properties"
     },
     {
-        "path": "configitemflexer",
+        "path": "config/itemflexer",
         "name": "itemflexer.mcfg",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/itemflexer.mcfg"
     },
     {
-        "path": "configitemmodelfix",
+        "path": "config/itemmodelfix",
         "name": "itemmodelfix.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/itemmodelfix.json"
     },
     {
-        "path": "configlambdabettergrass",
+        "path": "config/lambdabettergrass",
         "name": "lambdabettergrass.toml",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/lambdabettergrass.toml"
     },
     {
-        "path": "configlambdynlights",
+        "path": "config/lambdynlights",
         "name": "lambdynlights.toml",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/lambdynlights.toml"
     },
     {
-        "path": "configLengthyLadders",
+        "path": "config/LengthyLadders",
         "name": "LengthyLadders.conf",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/LengthyLadders.conf"
     },
     {
-        "path": "configlibgui",
+        "path": "config/libgui",
         "name": "libgui.json5",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/libgui.json5"
     },
     {
-        "path": "configlitematica",
+        "path": "config/litematica",
         "name": "litematica.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/litematica.json"
     },
     {
-        "path": "configlithium",
+        "path": "config/lithium",
         "name": "lithium.properties",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/lithium.properties"
     },
     {
-        "path": "configlodestone",
+        "path": "config/lodestone",
         "name": "lodestone.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/lodestone.json"
     },
     {
-        "path": "configmalilib",
+        "path": "config/malilib",
         "name": "malilib.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/malilib.json"
     },
     {
-        "path": "configmialeemisc",
+        "path": "config/mialeemisc",
         "name": "mialeemisc.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/mialeemisc.json"
     },
     {
-        "path": "configmidnightlib",
+        "path": "config/midnightlib",
         "name": "midnightlib.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/midnightlib.json"
     },
     {
-        "path": "configminecarttweaks",
+        "path": "config/minecarttweaks",
         "name": "minecarttweaks.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/minecarttweaks.json"
     },
     {
-        "path": "configmodmenu",
+        "path": "config/modmenu",
         "name": "modmenu.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/modmenu.json"
     },
     {
-        "path": "configMouseTweaks",
+        "path": "config/MouseTweaks",
         "name": "MouseTweaks.cfg",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/MouseTweaks.cfg"
     },
     {
-        "path": "confignamepain",
+        "path": "config/namepain",
         "name": "namepain.toml",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/namepain.toml"
     },
     {
-        "path": "confignotenoughanimations",
+        "path": "config/notenoughanimations",
         "name": "notenoughanimations.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/notenoughanimations.json"
     },
     {
-        "path": "configonsoulfire",
+        "path": "config/onsoulfire",
         "name": "onsoulfire.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/onsoulfire.json"
     },
     {
-        "path": "configpal",
+        "path": "config/pal",
         "name": "pal.properties",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/pal.properties"
     },
     {
-        "path": "configping-wheel",
+        "path": "config/ping-wheel",
         "name": "ping-wheel.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/ping-wheel.json"
     },
     {
-        "path": "configping-wheel.server",
+        "path": "config/ping-wheel.server",
         "name": "ping-wheel.server.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/ping-wheel.server.json"
     },
     {
-        "path": "configquilt-loader",
+        "path": "config/quilt-loader",
         "name": "quilt-loader.txt",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/quilt-loader.txt"
     },
     {
-        "path": "configreplaymod",
+        "path": "config/replaymod",
         "name": "replaymod.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/replaymod.json"
     },
     {
-        "path": "configrequiem",
+        "path": "config/requiem",
         "name": "requiem.json5",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/requiem.json5"
     },
     {
-        "path": "configrespawnablepets",
+        "path": "config/respawnablepets",
         "name": "respawnablepets.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/respawnablepets.json"
     },
     {
-        "path": "configrightclickharvest",
+        "path": "config/rightclickharvest",
         "name": "rightclickharvest.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/rightclickharvest.json"
     },
     {
-        "path": "configrosel",
+        "path": "config/rosel",
         "name": "rosel.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/rosel.json"
     },
     {
-        "path": "configsimplefog",
+        "path": "config/simplefog",
         "name": "simplefog.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/simplefog.json"
     },
     {
-        "path": "configsmoothswapping",
+        "path": "config/smoothswapping",
         "name": "smoothswapping.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/smoothswapping.json"
     },
     {
-        "path": "configsodium-mixins",
+        "path": "config/sodium-mixins",
         "name": "sodium-mixins.properties",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/sodium-mixins.properties"
     },
     {
-        "path": "configsodium-options",
+        "path": "config/sodium-options",
         "name": "sodium-options.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/sodium-options.json"
     },
     {
-        "path": "configstyled-nicknames",
+        "path": "config/styled-nicknames",
         "name": "styled-nicknames.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/styled-nicknames.json"
     },
     {
-        "path": "configtr7zwDonorSettings",
+        "path": "config/tr7zwDonorSettings",
         "name": "tr7zwDonorSettings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/tr7zwDonorSettings.json"
     },
     {
-        "path": "configtweakeroo",
+        "path": "config/tweakeroo",
         "name": "tweakeroo.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/tweakeroo.json"
     },
     {
-        "path": "configvisuality",
+        "path": "config/visuality",
         "name": "visuality.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/visuality.json"
     },
     {
-        "path": "configwatson",
+        "path": "config/watson",
         "name": "watson.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/watson.json"
     },
     {
-        "path": "configxaerominimap-common",
+        "path": "config/xaerominimap-common",
         "name": "xaerominimap-common.txt",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/xaerominimap-common.txt"
     },
     {
-        "path": "configxaerominimap",
+        "path": "config/xaerominimap",
         "name": "xaerominimap.txt",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/xaerominimap.txt"
     },
     {
-        "path": "configxaerominimap_entities",
+        "path": "config/xaerominimap_entities",
         "name": "xaerominimap_entities.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/xaerominimap_entities.json"
     },
     {
-        "path": "configxaeropatreon",
+        "path": "config/xaeropatreon",
         "name": "xaeropatreon.txt",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/xaeropatreon.txt"
     },
     {
-        "path": "configxaeroworldmap-common",
+        "path": "config/xaeroworldmap-common",
         "name": "xaeroworldmap-common.txt",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/xaeroworldmap-common.txt"
     },
     {
-        "path": "configxaeroworldmap",
+        "path": "config/xaeroworldmap",
         "name": "xaeroworldmap.txt",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/xaeroworldmap.txt"
     },
     {
-        "path": "configyungsextras-fabric-1_19",
+        "path": "config/yungsextras-fabric-1_19",
         "name": "yungsextras-fabric-1_19.toml",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/yungsextras-fabric-1_19.toml"
     },
     {
-        "path": "configbclib/biomes",
+        "path": "config/bclib/biomes",
         "name": "biomes.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/bclib/biomes.json"
     },
     {
-        "path": "configbclib/cache",
+        "path": "config/bclib/cache",
         "name": "cache.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/bclib/cache.json"
     },
     {
-        "path": "configbclib/client",
+        "path": "config/bclib/client",
         "name": "client.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/bclib/client.json"
     },
     {
-        "path": "configbclib/generator",
+        "path": "config/bclib/generator",
         "name": "generator.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/bclib/generator.json"
     },
     {
-        "path": "configbclib/main",
+        "path": "config/bclib/main",
         "name": "main.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/bclib/main.json"
     },
     {
-        "path": "configbclib/recipes",
+        "path": "config/bclib/recipes",
         "name": "recipes.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/bclib/recipes.json"
     },
     {
-        "path": "configbclib/server",
+        "path": "config/bclib/server",
         "name": "server.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/bclib/server.json"
     },
     {
-        "path": "configbetterdeserttemples/README",
+        "path": "config/betterdeserttemples/README",
         "name": "README.txt",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/betterdeserttemples/README.txt"
     },
     {
-        "path": "configbetterdeserttemples/fabric-1_19/armorstands",
+        "path": "config/betterdeserttemples/fabric-1_19/armorstands",
         "name": "armorstands.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/betterdeserttemples/fabric-1_19/armorstands.json"
     },
     {
-        "path": "configbetterdeserttemples/fabric-1_19/itemframes",
+        "path": "config/betterdeserttemples/fabric-1_19/itemframes",
         "name": "itemframes.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/betterdeserttemples/fabric-1_19/itemframes.json"
     },
     {
-        "path": "configbetterdeserttemples/fabric-1_19/README",
+        "path": "config/betterdeserttemples/fabric-1_19/README",
         "name": "README.txt",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/betterdeserttemples/fabric-1_19/README.txt"
     },
     {
-        "path": "configbetterstrongholds/README",
+        "path": "config/betterstrongholds/README",
         "name": "README.txt",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/betterstrongholds/README.txt"
     },
     {
-        "path": "configbetterstrongholds/fabric-1_19/armorstands",
+        "path": "config/betterstrongholds/fabric-1_19/armorstands",
         "name": "armorstands.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/betterstrongholds/fabric-1_19/armorstands.json"
     },
     {
-        "path": "configbetterstrongholds/fabric-1_19/itemframes",
+        "path": "config/betterstrongholds/fabric-1_19/itemframes",
         "name": "itemframes.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/betterstrongholds/fabric-1_19/itemframes.json"
     },
     {
-        "path": "configbetterstrongholds/fabric-1_19/ores",
+        "path": "config/betterstrongholds/fabric-1_19/ores",
         "name": "ores.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/betterstrongholds/fabric-1_19/ores.json"
     },
     {
-        "path": "configbetterstrongholds/fabric-1_19/rareblocks",
+        "path": "config/betterstrongholds/fabric-1_19/rareblocks",
         "name": "rareblocks.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/betterstrongholds/fabric-1_19/rareblocks.json"
     },
     {
-        "path": "configbetterstrongholds/fabric-1_19/README",
+        "path": "config/betterstrongholds/fabric-1_19/README",
         "name": "README.txt",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/betterstrongholds/fabric-1_19/README.txt"
     },
     {
-        "path": "configcamerautils/camerautils",
+        "path": "config/camerautils/camerautils",
         "name": "camerautils.properties",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/camerautils/camerautils.properties"
     },
     {
-        "path": "configcarpet/default_carpet",
+        "path": "config/carpet/default_carpet",
         "name": "default_carpet.conf",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/carpet/default_carpet.conf"
     },
     {
-        "path": "configfabric/indigo-renderer",
+        "path": "config/fabric/indigo-renderer",
         "name": "indigo-renderer.properties",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/fabric/indigo-renderer.properties"
     },
     {
-        "path": "configfabrication/block_logo",
+        "path": "config/fabrication/block_logo",
         "name": "block_logo.ini",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/fabrication/block_logo.ini"
     },
     {
-        "path": "configfabrication/block_logo",
+        "path": "config/fabrication/block_logo",
         "name": "block_logo.png",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/fabrication/block_logo.png"
     },
     {
-        "path": "configfabrication/classic_block_drops",
+        "path": "config/fabrication/classic_block_drops",
         "name": "classic_block_drops.ini",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/fabrication/classic_block_drops.ini"
     },
     {
-        "path": "configfabrication/dimensional_tools",
+        "path": "config/fabrication/dimensional_tools",
         "name": "dimensional_tools.ini",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/fabrication/dimensional_tools.ini"
     },
     {
-        "path": "configfabrication/features",
+        "path": "config/fabrication/features",
         "name": "features.ini",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/fabrication/features.ini"
     },
     {
-        "path": "configfabrication/fscript",
+        "path": "config/fabrication/fscript",
         "name": "fscript.ini",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/fabrication/fscript.ini"
     },
     {
-        "path": "configfabrication/gear_components",
+        "path": "config/fabrication/gear_components",
         "name": "gear_components.ini",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/fabrication/gear_components.ini"
     },
     {
-        "path": "configfabrication/item_despawn",
+        "path": "config/fabrication/item_despawn",
         "name": "item_despawn.ini",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/fabrication/item_despawn.ini"
     },
     {
-        "path": "configfabrication/taggable_players",
+        "path": "config/fabrication/taggable_players",
         "name": "taggable_players.ini",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/fabrication/taggable_players.ini"
     },
     {
-        "path": "configfabrication/yeet_recipes",
+        "path": "config/fabrication/yeet_recipes",
         "name": "yeet_recipes.ini",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/fabrication/yeet_recipes.ini"
     },
     {
-        "path": "configinventoryprofilesnext/inventoryprofiles",
+        "path": "config/inventoryprofilesnext/inventoryprofiles",
         "name": "inventoryprofiles.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/inventoryprofilesnext/inventoryprofiles.json"
     },
     {
-        "path": "configinvmove/unrecognized",
+        "path": "config/invmove/unrecognized",
         "name": "unrecognized.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/invmove/unrecognized.json"
     },
     {
-        "path": "configinvmove/vanilla",
+        "path": "config/invmove/vanilla",
         "name": "vanilla.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/invmove/vanilla.json"
     },
     {
-        "path": "configkonkrete/locals/de_de",
+        "path": "config/konkrete/locals/de_de",
         "name": "de_de.local",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/konkrete/locals/de_de.local"
     },
     {
-        "path": "configkonkrete/locals/en_us",
+        "path": "config/konkrete/locals/en_us",
         "name": "en_us.local",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/konkrete/locals/en_us.local"
     },
     {
-        "path": "configkonkrete/locals/pl_pl",
+        "path": "config/konkrete/locals/pl_pl",
         "name": "pl_pl.local",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/konkrete/locals/pl_pl.local"
     },
     {
-        "path": "configkonkrete/locals/pt_br",
+        "path": "config/konkrete/locals/pt_br",
         "name": "pt_br.local",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/konkrete/locals/pt_br.local"
     },
     {
-        "path": "configlitematica/litematica_localhost",
+        "path": "config/litematica/litematica_localhost",
         "name": "litematica_localhost.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/litematica/litematica_localhost.json"
     },
     {
-        "path": "configlitematica/litematica_localhost_dim_minecraft_overworld",
+        "path": "config/litematica/litematica_localhost_dim_minecraft_overworld",
         "name": "litematica_localhost_dim_minecraft_overworld.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/litematica/litematica_localhost_dim_minecraft_overworld.json"
     },
     {
-        "path": "configlitematica/litematica_new_world",
+        "path": "config/litematica/litematica_new_world",
         "name": "litematica_new_world.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/litematica/litematica_new_world.json"
     },
     {
-        "path": "configlitematica/litematica_new_world_dim_minecraft_overworld",
+        "path": "config/litematica/litematica_new_world_dim_minecraft_overworld",
         "name": "litematica_new_world_dim_minecraft_overworld.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/litematica/litematica_new_world_dim_minecraft_overworld.json"
     },
     {
-        "path": "configlitematica/litematica_new_world_dim_minecraft_the_nether",
+        "path": "config/litematica/litematica_new_world_dim_minecraft_the_nether",
         "name": "litematica_new_world_dim_minecraft_the_nether.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/litematica/litematica_new_world_dim_minecraft_the_nether.json"
     },
     {
-        "path": "configlitematica/litematica_p-na-01.wepwawet.net_25438",
+        "path": "config/litematica/litematica_p-na-01.wepwawet.net_25438",
         "name": "litematica_p-na-01.wepwawet.net_25438.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/litematica/litematica_p-na-01.wepwawet.net_25438.json"
     },
     {
-        "path": "configlitematica/litematica_p-na-01.wepwawet.net_25438_dim_expedition_airship",
+        "path": "config/litematica/litematica_p-na-01.wepwawet.net_25438_dim_expedition_airship",
         "name": "litematica_p-na-01.wepwawet.net_25438_dim_expedition_airship.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/litematica/litematica_p-na-01.wepwawet.net_25438_dim_expedition_airship.json"
     },
     {
-        "path": "configlitematica/litematica_p-na-01.wepwawet.net_25438_dim_minecraft_overworld",
+        "path": "config/litematica/litematica_p-na-01.wepwawet.net_25438_dim_minecraft_overworld",
         "name": "litematica_p-na-01.wepwawet.net_25438_dim_minecraft_overworld.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/litematica/litematica_p-na-01.wepwawet.net_25438_dim_minecraft_overworld.json"
     },
     {
-        "path": "configlitematica/litematica_p-na-01.wepwawet.net_25438_dim_minecraft_the_nether",
+        "path": "config/litematica/litematica_p-na-01.wepwawet.net_25438_dim_minecraft_the_nether",
         "name": "litematica_p-na-01.wepwawet.net_25438_dim_minecraft_the_nether.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/litematica/litematica_p-na-01.wepwawet.net_25438_dim_minecraft_the_nether.json"
     },
     {
-        "path": "configlitematica/litematica_world",
+        "path": "config/litematica/litematica_world",
         "name": "litematica_world.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/litematica/litematica_world.json"
     },
     {
-        "path": "configlitematica/litematica_world_dim_expedition_airship",
+        "path": "config/litematica/litematica_world_dim_expedition_airship",
         "name": "litematica_world_dim_expedition_airship.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/litematica/litematica_world_dim_expedition_airship.json"
     },
     {
-        "path": "configlitematica/litematica_world_dim_minecraft_overworld",
+        "path": "config/litematica/litematica_world_dim_minecraft_overworld",
         "name": "litematica_world_dim_minecraft_overworld.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/litematica/litematica_world_dim_minecraft_overworld.json"
     },
     {
-        "path": "configlitematica/litematica_world_dim_minecraft_the_nether",
+        "path": "config/litematica/litematica_world_dim_minecraft_the_nether",
         "name": "litematica_world_dim_minecraft_the_nether.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/litematica/litematica_world_dim_minecraft_the_nether.json"
     },
     {
-        "path": "configlitematica/material_list_2024-10-27_14.58.55",
+        "path": "config/litematica/material_list_2024-10-27_14.58.55",
         "name": "material_list_2024-10-27_14.58.55.txt",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/litematica/material_list_2024-10-27_14.58.55.txt"
     },
     {
-        "path": "configlitematica/material_list_2024-10-27_14.59.03",
+        "path": "config/litematica/material_list_2024-10-27_14.59.03",
         "name": "material_list_2024-10-27_14.59.03.csv",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/litematica/material_list_2024-10-27_14.59.03.csv"
     },
     {
-        "path": "configpehkui/config",
+        "path": "config/pehkui/config",
         "name": "config.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/pehkui/config.json"
     },
     {
-        "path": "configquilt/qsl/registry",
+        "path": "config/quilt/qsl/registry",
         "name": "registry.toml",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/quilt/qsl/registry.toml"
     },
     {
-        "path": "configsound_physics_remastered/allowed_sounds",
+        "path": "config/sound_physics_remastered/allowed_sounds",
         "name": "allowed_sounds.properties",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/sound_physics_remastered/allowed_sounds.properties"
     },
     {
-        "path": "configsound_physics_remastered/occlusion",
+        "path": "config/sound_physics_remastered/occlusion",
         "name": "occlusion.properties",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/sound_physics_remastered/occlusion.properties"
     },
     {
-        "path": "configsound_physics_remastered/reflectivity",
+        "path": "config/sound_physics_remastered/reflectivity",
         "name": "reflectivity.properties",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/sound_physics_remastered/reflectivity.properties"
     },
     {
-        "path": "configsound_physics_remastered/soundphysics",
+        "path": "config/sound_physics_remastered/soundphysics",
         "name": "soundphysics.properties",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/sound_physics_remastered/soundphysics.properties"
     },
     {
-        "path": "configstendhal/stendhal",
+        "path": "config/stendhal/stendhal",
         "name": "stendhal.properties",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/stendhal/stendhal.properties"
     },
     {
-        "path": "configswitchy/config",
+        "path": "config/switchy/config",
         "name": "config.toml",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/switchy/config.toml"
     },
     {
-        "path": "configswitchy/pehkui",
+        "path": "config/switchy/pehkui",
         "name": "pehkui.toml",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/switchy/pehkui.toml"
     },
     {
-        "path": "configvoicechat/translations",
+        "path": "config/voicechat/translations",
         "name": "translations.properties",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/voicechat/translations.properties"
     },
     {
-        "path": "configvoicechat/username-cache",
+        "path": "config/voicechat/username-cache",
         "name": "username-cache.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/voicechat/username-cache.json"
     },
     {
-        "path": "configvoicechat/voicechat-client",
+        "path": "config/voicechat/voicechat-client",
         "name": "voicechat-client.properties",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/voicechat/voicechat-client.properties"
     },
     {
-        "path": "configvoicechat/voicechat-server",
+        "path": "config/voicechat/voicechat-server",
         "name": "voicechat-server.properties",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/voicechat/voicechat-server.properties"
     },
     {
-        "path": "configvoicechat/voicechat-volumes",
+        "path": "config/voicechat/voicechat-volumes",
         "name": "voicechat-volumes.properties",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/voicechat/voicechat-volumes.properties"
     },
     {
-        "path": "configwatson/watson_p-na-01.wepwawet.net_25438",
+        "path": "config/watson/watson_p-na-01.wepwawet.net_25438",
         "name": "watson_p-na-01.wepwawet.net_25438.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/watson/watson_p-na-01.wepwawet.net_25438.json"
     },
     {
-        "path": "configworldedit/worldedit",
+        "path": "config/worldedit/worldedit",
         "name": "worldedit.properties",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/worldedit.properties"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/.unpack_finished",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/.unpack_finished",
         "name": ".unpack_finished",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/.unpack_finished"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/af/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/af/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/af/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/ar/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/ar/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/ar/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/ast/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/ast/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/ast/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/az/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/az/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/az/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/ba/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/ba/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/ba/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/be/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/be/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/be/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/bg/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/bg/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/bg/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/br-FR/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/br-FR/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/br-FR/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/brb/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/brb/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/brb/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/bs/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/bs/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/bs/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/ca/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/ca/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/ca/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/cs/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/cs/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/cs/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/cy/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/cy/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/cy/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/da/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/da/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/da/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/de/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/de/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/de/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/de-AT/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/de-AT/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/de-AT/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/de-CH/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/de-CH/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/de-CH/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/el/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/el/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/el/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/en-AU/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/en-AU/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/en-AU/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/en-CA/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/en-CA/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/en-CA/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/en-NZ/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/en-NZ/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/en-NZ/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/en-PT/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/en-PT/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/en-PT/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/en-UD/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/en-UD/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/en-UD/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/enp/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/enp/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/enp/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/eo/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/eo/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/eo/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/es-AR/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/es-AR/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/es-AR/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/es-CL/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/es-CL/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/es-CL/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/es-ES/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/es-ES/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/es-ES/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/es-MX/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/es-MX/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/es-MX/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/es-UY/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/es-UY/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/es-UY/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/es-VE/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/es-VE/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/es-VE/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/et/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/et/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/et/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/eu/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/eu/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/eu/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/fa/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/fa/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/fa/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/fi/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/fi/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/fi/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/fil/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/fil/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/fil/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/fo/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/fo/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/fo/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/fr/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/fr/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/fr/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/fr-CA/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/fr-CA/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/fr-CA/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/fra-DE/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/fra-DE/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/fra-DE/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/fy-NL/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/fy-NL/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/fy-NL/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/ga-IE/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/ga-IE/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/ga-IE/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/gd/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/gd/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/gd/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/gl/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/gl/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/gl/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/got/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/got/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/got/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/gv/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/gv/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/gv/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/haw/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/haw/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/haw/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/he/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/he/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/he/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/hi/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/hi/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/hi/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/hr/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/hr/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/hr/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/hu/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/hu/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/hu/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/hy-AM/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/hy-AM/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/hy-AM/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/id/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/id/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/id/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/ido/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/ido/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/ido/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/ig/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/ig/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/ig/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/is/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/is/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/is/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/it/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/it/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/it/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/ja/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/ja/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/ja/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/jbo/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/jbo/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/jbo/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/ka/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/ka/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/ka/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/kab/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/kab/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/kab/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/kk/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/kk/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/kk/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/kn/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/kn/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/kn/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/ko/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/ko/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/ko/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/ksh/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/ksh/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/ksh/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/kw/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/kw/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/kw/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/la-LA/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/la-LA/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/la-LA/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/lb/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/lb/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/lb/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/li/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/li/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/li/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/lol/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/lol/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/lol/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/lt/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/lt/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/lt/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/lv/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/lv/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/lv/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/mi/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/mi/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/mi/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/mk/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/mk/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/mk/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/mn/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/mn/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/mn/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/moh/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/moh/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/moh/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/ms/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/ms/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/ms/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/mt/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/mt/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/mt/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/nds/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/nds/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/nds/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/nl/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/nl/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/nl/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/nl-BE/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/nl-BE/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/nl-BE/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/nn-NO/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/nn-NO/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/nn-NO/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/no/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/no/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/no/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/nuk/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/nuk/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/nuk/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/oc/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/oc/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/oc/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/oj/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/oj/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/oj/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/pl/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/pl/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/pl/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/pt-BR/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/pt-BR/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/pt-BR/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/pt-PT/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/pt-PT/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/pt-PT/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/qya-AA/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/qya-AA/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/qya-AA/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/ro/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/ro/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/ro/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/ru/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/ru/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/ru/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/se/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/se/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/se/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/sk/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/sk/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/sk/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/sl/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/sl/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/sl/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/so/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/so/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/so/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/sq/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/sq/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/sq/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/sr/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/sr/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/sr/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/sv-SE/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/sv-SE/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/sv-SE/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/swg/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/swg/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/swg/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/szl/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/szl/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/szl/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/ta/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/ta/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/ta/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/th/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/th/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/th/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/tlh-AA/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/tlh-AA/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/tlh-AA/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/tr/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/tr/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/tr/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/tt-RU/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/tt-RU/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/tt-RU/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/tzl/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/tzl/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/tzl/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/uk/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/uk/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/uk/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/val-ES/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/val-ES/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/val-ES/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/vec/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/vec/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/vec/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/vi/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/vi/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/vi/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/yi/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/yi/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/yi/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/yo/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/yo/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/yo/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/zh-CN/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/zh-CN/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/zh-CN/strings.json"
     },
     {
-        "path": "configworldedit/.archive-unpack/2e1dd752/zh-TW/strings",
+        "path": "config/worldedit/.archive-unpack/2e1dd752/zh-TW/strings",
         "name": "strings.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/.archive-unpack/2e1dd752/zh-TW/strings.json"
     },
     {
-        "path": "configworldedit/sessions/9a5abccf-5013-423d-b137-453b13f07cab",
+        "path": "config/worldedit/sessions/9a5abccf-5013-423d-b137-453b13f07cab",
         "name": "9a5abccf-5013-423d-b137-453b13f07cab.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/worldedit/sessions/9a5abccf-5013-423d-b137-453b13f07cab.json"
     },
     {
-        "path": "configYungsExtras/README",
+        "path": "config/YungsExtras/README",
         "name": "README.txt",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/YungsExtras/README.txt"
     },
     {
-        "path": "configYungsExtras/fabric-1_19/README",
+        "path": "config/YungsExtras/fabric-1_19/README",
         "name": "README.txt",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/YungsExtras/fabric-1_19/README.txt"
     },
     {
-        "path": "configYungsExtras/fabric-1_19/wishing_wells",
+        "path": "config/YungsExtras/fabric-1_19/wishing_wells",
         "name": "wishing_wells.json",
         "url": "https://raw.githubusercontent.com/thatoneaiguy/aconite/mods/YungsExtras/fabric-1_19/wishing_wells.json"
     }
